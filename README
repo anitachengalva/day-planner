@@ -4,8 +4,8 @@ The task is to create a Work Day Planner
 I have utilized HTML, CSS, and jQuery as well as implementing Moment.js
 
 This planner displays the current date at the top of the page.
-It also displays time blocks, which have the ability to be clicked on and edited.
+It also displays time blocks, in increments of an hour, which have the ability to be clicked on and edited.
 And lastly, it has a feature to save the user input to local storage.
 
-The time blocks in the past are gray, whereas timeblocks in the future are blue.
-Current timeblocks will be green.
+The time blocks in the past are gray, whereas timeblocks in the future are green.
+Current timeblocks will be red.
