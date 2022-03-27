@@ -5,6 +5,8 @@ console.log(moment)
 //localStorage.getItem("label")
 
 $(document).ready(function (){
+    moment(testDate).format('MM/DD/YYYY');
+    // Moment Date Stamp
     $("#saveButton").click(function(event){
         console.log(event.target.previousElementSibling.value)
         localStorage.setItem("text",event.target.previousElementSibling.value);  
