@@ -5,10 +5,11 @@
 
 This project is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The [Moment.js](https://momentjs.com/) library is a third-party API utilized to format date and time. Scheduled events are saved to local storage.
 
+
 ## Deployed Link
 
-This application is not deployed, so below is a link to the walkthrough video.
-> [Walkthrough](#screenshots-and-walkthrough)
+This application is deployed through [Github Pages](https://pages.github.com/).
+> https://anitachengalva.github.io/day-planner/
 
 
 ## Table of Contents
@@ -34,12 +35,14 @@ SO THAT I can manage my time effectively
 
 In order to run this application, you will want to `git clone` this repository so that the code is on your local machine. With the file `index.html` open, press `ALT+B` to launch the application in browser.
 
+Alternatively, you can simply visit my [Deployed Link](https://anitachengalva.github.io/day-planner/).
+
 
 ## Technologies Utilized
 
-> [HTML](https://expressjs.com/)
+> [HTML]()
 
-> [CSS](https://www.mysql.com/)
+> [CSS]()
 
 > [Javascript](https://www.javascript.com/)
 > - [jQuery](https://jquery.com/)
