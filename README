@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The [Moment.js](https://momentjs.com/) library is a third-party API utilized to format date and time.
+This project is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The [Moment.js](https://momentjs.com/) library is a third-party API utilized to format date and time. Scheduled events are saved to local storage.
 
 ## Deployed Link
 
@@ -32,7 +32,7 @@ SO THAT I can manage my time effectively
 
 ## Installation and Usage
 
-In order to run this application, you will want to `git clone` this repository so that the code is on your local machine. Run `npm i` while in the root directory in order to install all necessary [Node.js](https://nodejs.org/en/) dependencies. The application will be invoked by using the command `node index.js`.
+In order to run this application, you will want to `git clone` this repository so that the code is on your local machine. With the file `index.html` open, press `ALT+B` to launch the application in browser.
 
 
 ## Technologies Utilized
@@ -42,7 +42,7 @@ In order to run this application, you will want to `git clone` this repository s
 > [CSS](https://www.mysql.com/)
 
 > [Javascript](https://www.javascript.com/)
-> - [jQuery]()
+> - [jQuery](https://jquery.com/)
 
 > [Moment.js](https://momentjs.com/)
 
