@@ -52,8 +52,8 @@ Alternatively, you can simply visit my [Deployed Link](https://anitachengalva.gi
 
 ## Screenshots and Walkthrough
 
-![Alt-txt-placeholder](path-placeholder)
-*caption*
+![day-planner-overview](./assets/5-planner.jpg)
+*Planner Layout*
 </br>
 
 ## Contributors
